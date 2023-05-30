@@ -1,4 +1,4 @@
-               #### Hi 👋, I'm Ramiz Rafiq
+                     Hi 👋, I'm Ramiz Rafiq
 
 - 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning **React Native and Node JS**
