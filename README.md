@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ramizrafiq465@gmail.com**
 
-- 🌱 I have recently launch **NPM module for React JS which helps to develop Customizable Chat in React JS here is the link:** [https://www.npmjs.com/package/react-responsive-chat](https://www.npmjs.com/package/react-responsive-chat)
+- 🌱 I have recently launch an **NPM module for React JS which helps to develop Customizable Chat in React JS here is the link:** [https://www.npmjs.com/package/react-responsive-chat](https://www.npmjs.com/package/react-responsive-chat)
 
   >
 
